@@ -4,7 +4,7 @@ I am currently working on genetic dissection of hybrid vigor and application of 
 
 Below is my brief resume:
 
-![Resume] (./VisualResume_Sapkota2021.png)
+![Resume] (https://github.com/sirjansapkota/sirjansapkota/blob/main/VisualResume_Sapkota2021.png)
 
 <!--
 **sirjansapkota/sirjansapkota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
