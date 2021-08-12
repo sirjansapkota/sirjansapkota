@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working on genetic dissection of hybrid vigor and application of quantitative genetic theory in prediction of hybrid performance in sorghum.
+I am currently working on genetic dissection of hybrid vigor and applications of quantitative genetic theory in hybrid breeding.
 
 Below is my brief resume:
 
