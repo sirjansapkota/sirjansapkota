@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am currently working on genetic dissection of hybrid vigor and application of quantitative genetic theory in prediction of hybrid performance in sorghum.
+
+Below is my brief resume:
+
+<img src="VisualResume_Sapkota.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" /
 <!--
 **sirjansapkota/sirjansapkota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
