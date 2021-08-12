@@ -6,7 +6,7 @@ Below is my brief resume:
 
 
 <p align="left">
-  <img src="VisualResume_Sapkota2021.png" width="550" title="hover text">
+  <img src="VisualResume_Sapkota2021.png" width="1000" title="hover text">
 </p>
 
 <!--
