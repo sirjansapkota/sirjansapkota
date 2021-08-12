@@ -4,10 +4,9 @@ I am currently working on genetic dissection of hybrid vigor and application of 
 
 Below is my brief resume:
 
-`![alt Resume] (VisualResume_Sapkota2021.png)`
 
-<p align="center">
-  <img src="VisualResume_Sapkota2021.png" width="350" title="hover text">
+<p align="left">
+  <img src="VisualResume_Sapkota2021.png" width="550" title="hover text">
 </p>
 
 <!--
