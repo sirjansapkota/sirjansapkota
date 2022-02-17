@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working on genetic dissection of hybrid vigor and applications of quantitative genetic theory in hybrid breeding.
+I am currently working on application of quantitative genetics in hybrid breeding. The goals are to optimize training population design for prediction of hybrid performance and combining abilities of parent lines. I am also working on high throughput phenotyping platforms (near infrared spectroscopy and imaging using UAV) and their integration into breeding pipeline.
 
 Below is my brief resume:
 
